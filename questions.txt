@@ -1,0 +1,5 @@
+1. Can we predict if a job posting is fraudulent or not?
+
+2. What makes a job posting fraudulent?
+
+3. What are some of the keywords in fraudulent post?
